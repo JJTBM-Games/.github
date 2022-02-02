@@ -11,12 +11,16 @@ Documentation can be found on: https://jjtbm-games.github.io/
 
 ### Design
 
-* [Architecture Document](https://jjtbm-games.github.io/design/architecture-document)
-* [Game Design](https://jjtbm-games.github.io/design/game-design)
+* [Architecture Document](https://jjtbm-games.github.io/design/architecture-docuement)
+* [Game Design](https://jjtbm-games.github.io/design/gamedesign)
 
 ### Project plan
 
 * [Project plan](https://jjtbm-games.github.io/projectplan/)
+
+### Docs
+
+[Docs homepage](https://jjtbm-games.github.io/docs/)
 
 ### Others
 
@@ -24,7 +28,9 @@ Documentation can be found on: https://jjtbm-games.github.io/
 
 * [Scrum Backlog](https://github.com/orgs/JJTBM-Games/projects/1/views/1)
 
-* [Rubric](https://jjtbm-games.github.io/rubric)
-  * [Rubric Sprint 1](https://jjtbm-games.github.io/rubric/index#rubric-sprint-1)
-  * [Rubric Sprint 2](https://jjtbm-games.github.io/rubric/index#rubric-sprint-2)
-  * [Rubric Sprint 3](https://jjtbm-games.github.io/rubric/index#rubric-sprint-3)
+* [Useful links](https://jjtbm-games.github.io/others/links)
+
+* [Rubric](https://jjtbm-games.github.io/others/rubrics)
+  * [Rubric Sprint 1](https://jjtbm-games.github.io/others/rubrics#rubric-sprint-1)
+  * [Rubric Sprint 2](https://jjtbm-games.github.io/others/rubrics#rubric-sprint-2)
+  * [Rubric Sprint 3](https://jjtbm-games.github.io/others/rubrics#rubric-sprint-3)
