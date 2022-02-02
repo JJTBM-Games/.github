@@ -11,7 +11,7 @@ Documentation can be found on: https://jjtbm-games.github.io/
 
 ### Design
 
-* [Architecture Document](https://jjtbm-games.github.io/design/architecture-docuement)
+* [Architecture Document](https://jjtbm-games.github.io/design/architecture-document)
 * [Game Design](https://jjtbm-games.github.io/design/gamedesign)
 
 ### Project plan
